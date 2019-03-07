@@ -1,1 +1,1 @@
-# hbase-shell-commands
+# HBase Shell Commands
